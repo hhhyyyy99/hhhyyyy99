@@ -12,24 +12,6 @@
 
 ---
 
-### 🛠 技术栈
-
-<div align="center">
-
-| 分类 | 技术 |
-|------|------|
-| **前端框架** | Vue2 / Vue3 + TypeScript · React + TypeScript |
-| **小程序** | 原生小程序 · Taro · uni-app |
-| **工程化** | Vite · Webpack · Pinia · Vuex · Redux |
-| **UI 库** | Element Plus · Ant Design |
-| **可视化** | ECharts · AntV |
-| **后端 & 部署** | Node.js · Express · MongoDB · Jenkins · Docker |
-| **架构** | 微前端 (qiankun) |
-
-</div>
-
----
-
 ### 📊 GitHub 数据
 
 <div align="center">
