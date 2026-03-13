@@ -12,18 +12,6 @@
 
 ---
 
-### 📊 GitHub 数据
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hhhyyyy99&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhhyyyy99&layout=compact&theme=radical&hide_border=true&bg_color=0d1117)
-
-</div>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" width="100%" />
 </p>
